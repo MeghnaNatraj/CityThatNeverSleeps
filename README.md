@@ -1,4 +1,4 @@
-# CityThatNeverSleeps
+# City that never sleeps
 Travel tips for NYC Visitors. 
 
 ## 1. Travel
